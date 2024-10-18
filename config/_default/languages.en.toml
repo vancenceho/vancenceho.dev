@@ -16,7 +16,8 @@ title = "Blowfish"
 [author]
 name = "Vancence"
 email = "vancence_ho@mymail.sutd.edu.sg"
-image = "img/blowfish_logo.png"
+image = "profile.jpg"
+# image = "img/blowfish_logo.png"
 imageQuality = 96
 headline = "Hi! I'm Vancence, an aspiring Software Engineer whose interests lies in AI and Computer Vision."
 bio = "I'm a student at the Singapore University of Technology and Design (SUTD) pursuing a degree in Information Systems Technology and Design. I'm passionate about technology and its applications in solving real-world problems. I'm currently exploring the field of AI and Computer Vision and I'm excited to see where this journey takes me."
