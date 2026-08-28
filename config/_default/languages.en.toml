@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Vancence Ho"
 
 [params]
   displayName = "EN"
@@ -13,7 +13,7 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
 name = "Vancence"
 email = "vancence_ho@mymail.sutd.edu.sg"
 image = "profile.jpg"
