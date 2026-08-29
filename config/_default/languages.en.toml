@@ -19,7 +19,8 @@ email = "vancence_ho@mymail.sutd.edu.sg"
 image = "profile.jpg"
 # image = "img/blowfish_logo.png"
 imageQuality = 96
-headline = "Hi! I'm Vancence, an aspiring Software Engineer &nbsp;👻"
+headline = "[![Typing SVG](https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&duration=2000&pause=1000&color=64748B&center=true&vCenter=true&width=435&lines=aspiring+software+engineer+%3C%2F%3E;builder+%F0%9F%91%BE+%7C+traveler+%E2%9C%88%EF%B8%8F+%7C+creator+%F0%9F%92%A1;snowboarder+%F0%9F%8F%82%F0%9F%8F%BC;i+love+contributing+%26+shipping+cool+stuff++%3A%29)](https://git.io/typing-svg)"
+# headline = "![Typing SVG]()"
 bio = "I'm a student at the Singapore University of Technology and Design (SUTD) pursuing a degree in Information Systems Technology and Design. I'm passionate about technology and its applications in solving real-world problems. I'm currently exploring the field of AI and Computer Vision and I'm excited to see where this journey takes me."
 links = [
       { github = "https://github.com/vancenceho" },
