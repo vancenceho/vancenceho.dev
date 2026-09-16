@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name ="Projects"
+ pageRef = "projects"
+ weight = 8
+
+[[main]]
  name = "Resume"
  pageRef = ""
  weight = 5
