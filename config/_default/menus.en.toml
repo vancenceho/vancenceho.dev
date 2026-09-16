@@ -17,7 +17,8 @@
 
 [[main]]
  name = "Resume"
- pageRef = ""
+ # url = "https://www.vancenceho.dev/Vancence-Ho-Resume.pdf"        # remove once website is live
+ url = "http://localhost:1313/Vancence-Ho-Resume.pdf"
  weight = 5
 
 [[main]]
