@@ -11,9 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Resume"
-pageRef = ""
-weight = 5
+ name = "Resume"
+ pageRef = ""
+ weight = 5
 
 [[main]]
  name = "Blog"
