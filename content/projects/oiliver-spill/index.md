@@ -5,7 +5,8 @@ draft = false
 description = "An IoT and cloud system for early oil spill detection along tanker routes, using an ESP32 buoy with infrared sensing and LoRA communication."
 summary = "Academic project (SUTD 50.042 Cloud Computing & IoT) building an ESP32-based buoy that detects oil on the water surface via infrared and LoRA, backed by AWS cloud infrastructure for data collection and analysis."
 tags = ["iot", "esp32", "lora", "aws", "terraform", "opentofu", "cloud-computing", "python"]
-showHero = false
+showHero = true
+heroStyle = "background"
 # Add a featured.png / cover.jpg to this page bundle, then set showHero = true
 +++
 
