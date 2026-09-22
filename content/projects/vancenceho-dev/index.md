@@ -5,7 +5,8 @@ draft = false
 description = "The Hugo + Blowfish site you're looking at right now, built as a personal portfolio for software/data engineering work."
 summary = "My personal portfolio site, built with Hugo powered by Go and the Blowfish theme."
 tags = ["hugo", "blowfish", "tailwindcss", "toml", "go", "portfolio", "dev"]
-showHero = false
+showHero = true
+heroStyle = "background"
 # Add a featured.png / cover.jpg to this page bundle, then set showHero = true
 +++
 
