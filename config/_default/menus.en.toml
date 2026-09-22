@@ -11,27 +11,32 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name = "About"
+ pageRef = ""
+ weight = 10
+
+[[main]]
  name ="Projects"
  pageRef = "projects"
- weight = 8
+ weight = 15
 
 [[main]]
  name = "Resume"
  # url = "https://www.vancenceho.dev/Vancence-Ho-Resume.pdf"        # remove once website is live
  url = "http://localhost:1313/Vancence-Ho-Resume.pdf"
- weight = 5
+ weight = 20
 
 [[main]]
  name = "Blog"
  title = "Read all blog posts"
  pageRef = "posts"
- weight = 10
+ weight = 25
 
 [[main]]
 pre = "github"
 title = "Check out my awesome repositories :>"
 url = "https://github.com/vancenceho"
-weight = 40
+weight = 30
 
 # [[main]]
 # name = "example sub-menu 1"
