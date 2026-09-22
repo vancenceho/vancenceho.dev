@@ -8,3 +8,9 @@ tags = []
 showHero = false
 # Add a featured.png / cover.jpg to this page bundle, then set showHero = true
 +++
+
+{{< lead >}}
+a series of stuff when there is too much time and when im bored,
+
+oh, and some serious projects such as academia and research as well...
+{{< /lead >}}
