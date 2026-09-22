@@ -60,7 +60,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   # showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
@@ -84,7 +84,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTags = true
   showCategoriesInSecondaryColor = true
   showAuthorsBadges = true
-  showWordCount = false
+  showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
