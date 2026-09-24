@@ -48,7 +48,7 @@ Hopefully this is not a waste of time (lol!).
 
 As seen from the title of this section, together with the usual acknowledgements, I have included some stuff you can feel free to check out so that you too can build a website just like this!
 
-### {{< icon "GitHub" >}} &nbsp; GitHub
+### {{< icon "github" >}} &nbsp; GitHub
 
 The official repository for this entire framework can be found here!
 
