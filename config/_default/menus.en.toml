@@ -22,7 +22,7 @@
 
 [[main]]
  name = "Resume"
- # url = "https://www.vancenceho.dev/Vancence-Ho-Resume.pdf"        # remove once website is live
+ # url = "https://www.vancence.dev/Vancence-Ho-Resume.pdf"        # remove once website is live
  url = "http://localhost:1313/Vancence-Ho-Resume.pdf"
  weight = 20
 
