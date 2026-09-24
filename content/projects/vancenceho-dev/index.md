@@ -1,5 +1,5 @@
 +++
-title = 'vancenceho.dev'
+title = 'vancence.dev'
 date = 2026-09-17T18:06:46+08:00
 draft = false
 description = "The Hugo + Blowfish site you're looking at right now, built as a personal portfolio for software/data engineering work."
