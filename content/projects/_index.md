@@ -1,7 +1,7 @@
 +++
 title = 'Projects'
 date = 2026-09-17T17:44:00+08:00
-draft = true
+draft = false  
 description = "A selection of things I've built :)"
 summary = ""
 tags = []

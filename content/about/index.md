@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2026-09-24T18:46:34+08:00
-draft = true
+draft = false
 description = "A bit about who I am and what I do."
 showHero = false
 showAuthor = true
